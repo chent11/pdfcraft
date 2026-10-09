@@ -1,0 +1,67 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /AcroForm 4 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 /MediaBox [0 0 420 230] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Contents 8 0 R /Resources << /Font << /Helv 5 0 R >> >> /Annots [10 0 R 11 0 R 12 0 R] >>
+endobj
+4 0 obj
+<< /Fields [10 0 R 11 0 R 12 0 R] /DA (/Helv 0 Tf 0 g) /DR << /Font << /Helv 5 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /XObject /Subtype /Form /BBox [0 0 14 14] /Length 26 >>
+stream
+0 G 1 w 0.5 0.5 13 13 re S
+endstream
+endobj
+7 0 obj
+<< /Type /XObject /Subtype /Form /BBox [0 0 14 14] /Length 68 >>
+stream
+0 G 1 w 0.5 0.5 13 13 re S 0 G 2 w 1 J 1 j 3 7 m 6 3.5 l 11.5 11 l S
+endstream
+endobj
+8 0 obj
+<< /Length 275 >>
+stream
+BT /Helv 13 Tf 30 205 Td (Check boxes whose on-state names are not UTF-8) Tj ET
+BT /Helv 11 Tf 30 163 Td (On state /Yes (ASCII, control)) Tj ET
+BT /Helv 11 Tf 30 118 Td (On state /#82#CD#82#A2 (Shift-JIS hai)) Tj ET
+BT /Helv 11 Tf 30 73 Td (On state /S#ED (Latin-1 si)) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (yes) /V /Off /AS /Off /Rect [300 160 314 174] /P 3 0 R /AP << /N << /Off 6 0 R /Yes 7 0 R >> >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (hai) /V /Off /AS /Off /Rect [300 115 314 129] /P 3 0 R /AP << /N << /Off 6 0 R /#82#CD#82#A2 7 0 R >> >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (si) /V /Off /AS /Off /Rect [300 70 314 84] /P 3 0 R /AP << /N << /Off 6 0 R /S#ED 7 0 R >> >> >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000161 00000 n 
+0000000296 00000 n 
+0000000403 00000 n 
+0000000500 00000 n 
+0000000624 00000 n 
+0000000790 00000 n 
+0000000000 65535 f 
+0000001116 00000 n 
+0000001277 00000 n 
+0000001447 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+1606
+%%EOF
