@@ -1,0 +1,68 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /AcroForm 4 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 /MediaBox [0 0 420 280] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Contents 8 0 R /Resources << /Font << /Helv 5 0 R >> >> /Annots [9 0 R 10 0 R 11 0 R] >>
+endobj
+4 0 obj
+<< /Fields [9 0 R 10 0 R 11 0 R] /DA (/Helv 0 Tf 0 g) /DR << /Font << /Helv 5 0 R /HeiMinUCS2 6 0 R /HeiMinUTF16 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type0 /BaseFont /HeiseiMin-W3 /Encoding /UniJIS-UCS2-H /DescendantFonts [12 0 R] >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type0 /BaseFont /HeiseiMin-W3 /Encoding /UniJIS-UTF16-H /DescendantFonts [12 0 R] >>
+endobj
+8 0 obj
+<< /Length 274 >>
+stream
+BT /Helv 13 Tf 30 255 Td (Form fields in a non-embedded CID font: HeiseiMin-W3) Tj ET
+BT /Helv 11 Tf 30 213 Td (Combo box, /UniJIS-UCS2-H) Tj ET
+BT /Helv 11 Tf 30 173 Td (Combo box, /UniJIS-UTF16-H) Tj ET
+BT /Helv 11 Tf 30 133 Td (Multiline text field, /UniJIS-UCS2-H) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Ch /T (era_ucs2) /Ff 131072 /DA (/HeiMinUCS2 12 Tf 0 g) /Q 1 /Opt [<FEFF3000> <FEFF660E> <FEFF5927> <FEFF662D> <FEFF5E73> <FEFF4EE4>] /V <FEFF3000> /Rect [250 205 300 227] /P 3 0 R /MK << /BC [0 0 0] /BG [1 1 1] >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Ch /T (era_utf16) /Ff 131072 /DA (/HeiMinUTF16 12 Tf 0 g) /Q 1 /Opt [<FEFF3000> <FEFF660E> <FEFF5927> <FEFF662D> <FEFF5E73> <FEFF4EE4>] /V <FEFF3000> /Rect [250 165 300 187] /P 3 0 R /MK << /BC [0 0 0] /BG [1 1 1] >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (notes) /Ff 4096 /DA (/HeiMinUCS2 11 Tf 0 g) /Rect [250 60 390 150] /P 3 0 R /MK << /BC [0 0 0] /BG [1 1 1] >> >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /HeiseiMin-W3 /CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 2 >> /FontDescriptor 13 0 R /DW 1000 >>
+endobj
+13 0 obj
+<< /Type /FontDescriptor /FontName /HeiseiMin-W3 /Flags 6 /FontBBox [-123 -257 1001 910] /ItalicAngle 0 /Ascent 859 /Descent -140 /CapHeight 709 /StemV 69 >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000161 00000 n 
+0000000295 00000 n 
+0000000438 00000 n 
+0000000535 00000 n 
+0000000659 00000 n 
+0000000784 00000 n 
+0000001109 00000 n 
+0000001380 00000 n 
+0000001654 00000 n 
+0000001828 00000 n 
+0000002013 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+2187
+%%EOF
